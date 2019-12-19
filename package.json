@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "express": "^4.16.4",
-    "tnnl": "^1.0.14"
+    "tnnl": "^1.0.15"
   }
 }
